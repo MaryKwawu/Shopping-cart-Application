@@ -23,7 +23,7 @@ print("Your shopping list:\n", shopping_list)
 
 shopping_list.sort()
 shopping_item = len(shopping_list)
-print("Items added to cart is :"  " + " + str(len(shopping_list)) + " and they include " + str(shopping_list))
+print("Items added to cart is :" + " " + str(len(shopping_list)) + " and they include " + str(shopping_list))
 # print("Items added to cart is", len(shopping_list), "and they include", shopping_list)
 #
 # output = "Items added to cart: is {} {}".format(len(shopping_list), " ".join(shopping_list))
