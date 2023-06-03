@@ -9,7 +9,7 @@ month = current_datetime.month
 day = current_datetime.day
 hour = current_datetime.hour
 minute = current_datetime.minute
-print('Current date and time: {}-{} \ {}:{}'.format(month, day, hour, minute))
+print('Current date and time: {}-{} : {}:{}'.format(month, day, hour, minute))
 
 # print("{}-{} \ {}:{}" .format(month, day, hour, minute))
 # print(str(month) + "/" + str(day) +  str(hour) + "/" + str(minute))
